@@ -58,6 +58,7 @@ pip install matplotlib
 * step 5: Install the necessary packages
 
 ```bash
+cd yolov5/
 pip3 install -r requirements.txt
 ```
 
